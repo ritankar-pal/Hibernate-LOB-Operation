@@ -1,0 +1,3 @@
+Resume
+Name: Ritankar Pal 
+Skills: JS, React, Java, Hibernate
